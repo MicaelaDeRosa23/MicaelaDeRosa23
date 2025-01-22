@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Back End**
 
-- 💬 Ask me about **Boostrap,HTML**
+- 💬 Ask me about **Bootstrap,HTML**
 
 - 📫 How to reach me **micaaderosa@gmail.com**
 
